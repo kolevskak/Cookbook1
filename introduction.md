@@ -22,6 +22,9 @@ Step-by-step directions on how to prepare the dish. Each step is numbered for ea
 ### **💡 Tips (Optional)**  
 Additional advice or modifications that can enhance the dish, such as ingredient substitutions, cooking variations, or serving suggestions.  
 
+### **🖼️ Image (Optional)**  
+A visual representation of the dish (optional but helpful for inspiration or guidance).  
+
 ### **⏳ Cooking Time**  
 The estimated time required for preparation and cooking, helping users plan accordingly.  
 
