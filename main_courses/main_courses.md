@@ -44,6 +44,9 @@ A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper for a 
 - Avoid using cream—traditional carbonara relies on eggs and cheese for creaminess.
 - Mix the sauce off the heat to prevent scrambling the eggs.
 - Serve immediately for the best texture.
+
+![Spaghetti Carbonara](https://www.sipandfeast.com/wp-content/uploads/2022/09/spaghetti-carbonara-recipe-snippet.jpg)
+
 ---
 # Grilled Salmon
 
