@@ -1,7 +1,9 @@
 # Tiramisu  
+
 A classic Italian dessert made with layers of espresso-soaked ladyfingers and a creamy mascarpone filling, topped with cocoa powder.  
 
 ## Ingredients  
+
 - 1 cup (240ml) strong brewed espresso, cooled  
 - 3 tablespoons coffee liqueur (optional)  
 - 3 large egg yolks  
@@ -15,38 +17,50 @@ A classic Italian dessert made with layers of espresso-soaked ladyfingers and a 
 
 ## Instructions  
 
-### Prepare the Coffee Mixture:  
-- In a shallow dish, combine the cooled espresso and coffee liqueur (if using). Set aside.  
+### 1. Prepare the Coffee Mixture  
+- **Step 1:** Brew 1 cup of strong espresso and let it cool to room temperature.  
+- **Step 2:** If using, mix in 3 tablespoons of coffee liqueur to enhance the flavor.  
+- **Step 3:** Pour the cooled coffee mixture into a shallow dish where you’ll dip the ladyfingers. Set aside.  
 
-### Make the Mascarpone Filling:  
-- In a heatproof bowl, whisk together the egg yolks and sugar.  
-- Place the bowl over a pot of simmering water (double boiler method) and whisk continuously for about 5 minutes until the mixture thickens.  
-- Remove from heat and let it cool slightly.  
-- Whisk in the mascarpone cheese until smooth.  
+### 2. Make the Mascarpone Filling  
+- **Step 4:** In a heatproof bowl, whisk together 3 large egg yolks and 1/2 cup of granulated sugar until the mixture is smooth and pale.  
+- **Step 5:** Place the bowl over a pot of simmering water (double boiler method). Whisk continuously for about 5 minutes, or until the mixture thickens and doubles in volume.  
+- **Step 6:** Remove the bowl from the heat and let it cool slightly.  
+- **Step 7:** Once cooled, whisk in 8 ounces of mascarpone cheese until smooth and well combined.  
 
-### Whip the Cream:  
-- In a separate bowl, whip the heavy cream and vanilla extract until soft peaks form.  
-- Gently fold the whipped cream into the mascarpone mixture.  
+### 3. Whip the Cream  
+- **Step 8:** In a separate bowl, whip 3/4 cup of heavy cream and 1 teaspoon of vanilla extract until soft peaks form.  
+- **Step 9:** Gently fold the whipped cream into the mascarpone mixture using a spatula. Mix until smooth and fully combined. Be gentle to maintain the airy texture of the whipped cream.  
 
-### Assemble the Tiramisu:  
-- Quickly dip each ladyfinger into the espresso mixture and layer them in a dish.  
-- Spread half of the mascarpone filling over the ladyfingers.  
-- Repeat with another layer of dipped ladyfingers and the remaining filling.  
+### 4. Assemble the Tiramisu  
+- **Step 10:** Quickly dip each ladyfinger into the coffee mixture for about 1-2 seconds (do not soak them, or they will become too soggy).  
+- **Step 11:** Arrange a layer of dipped ladyfingers in the bottom of a serving dish (preferably 9x9-inch or similar).  
+- **Step 12:** Spread half of the mascarpone filling over the ladyfingers, smoothing it out with a spatula.  
+- **Step 13:** Repeat the process with another layer of dipped ladyfingers and the remaining mascarpone filling.  
 
-### Chill & Serve:  
-- Cover and refrigerate for at least **4 hours** (preferably overnight).  
-- Before serving, dust with cocoa powder and garnish with chocolate shavings if desired.  
+### 5. Chill the Tiramisu  
+- **Step 14:** Cover the dish with plastic wrap and refrigerate for at least 4 hours (preferably overnight). This allows the flavors to meld and the dessert to firm up.  
 
-## Tips:  
-- Do not soak the ladyfingers too long, or they will become mushy. A quick dip is enough.  
+### 6. Serve and Garnish  
+- **Step 15:** Before serving, dust the top with unsweetened cocoa powder using a fine mesh sieve.  
+- **Step 16:** If desired, garnish with dark chocolate shavings or fresh berries.  
+- **Step 17:** Slice and serve chilled.  
+
+## Tips  
+
+- Do not soak the ladyfingers for too long; a quick dip is all they need.  
 - For a stronger coffee flavor, use espresso instead of regular brewed coffee.  
 - The longer it chills, the better the flavors meld—overnight is ideal.  
+- If you want a non-alcoholic version, simply omit the coffee liqueur.  
 
-## Cooking Time:  
+## Cooking Time  
+
 - **Prep Time:** 20 minutes  
-- **Chill Time:** 4+ hours  
+- **Chill Time:** 4+ hours (preferably overnight)  
 - **Total Time:** 4 hours 20 minutes  
 - **Servings:** 6-8  
+
+**Enjoy your homemade tiramisu!** 🍰
 
 ---
 
