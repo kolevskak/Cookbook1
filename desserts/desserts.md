@@ -61,6 +61,7 @@ A classic Italian dessert made with layers of espresso-soaked ladyfingers and a 
 - **Servings:** 6-8  
 
 **Enjoy your homemade tiramisu!** 🍰
+
 ![Tiramisu](../images/desserts/Tiramisu-16.jpg)
 
 ---
