@@ -153,3 +153,5 @@ A classic and delicious appetizer with a creamy, flavorful filling.
 
 **Enjoy your deviled eggs!** 😋  
 
+![Deviled Eggs](../images/appetizers/Deviled_Eggs.jpg)
+
