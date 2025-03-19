@@ -44,6 +44,9 @@ A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper for a 
 - Avoid using cream—traditional carbonara relies on eggs and cheese for creaminess.
 - Mix the sauce off the heat to prevent scrambling the eggs.
 - Serve immediately for the best texture.
+
+![Spaghetti Carbonara](https://www.sipandfeast.com/wp-content/uploads/2022/09/spaghetti-carbonara-recipe-snippet.jpg)
+
 ---
 # Grilled Salmon
 
@@ -88,7 +91,7 @@ A simple and flavorful way to enjoy perfectly grilled salmon.
 - Avoid overcooking—salmon is done when it flakes easily with a fork.
 - For extra flavor, marinate the salmon for **15-30 minutes** before grilling.
 - Serve with **grilled vegetables, rice, or a fresh salad** for a complete meal.
-
+![Grilled Salamon] (Cookbook1/images/main_courses/grilledsalamon.webp)
 ## Note  
 
 If you’d like to try other types of fish for grilling, **tuna, swordfish, halibut, and mahi-mahi** are excellent options. These firm and meaty fish hold up well to high heat and develop a delicious char when grilled.  

@@ -116,3 +116,5 @@ A rich and creamy chocolate dessert that’s light yet indulgent.
 - **Total Time:** 2 hours 20 minutes  
 - **Servings:** 4  
 
+![Chocolate Mousse](https://www.allrecipes.com/thmb/h1-rRJcI_8AMavPqqlBnwVIO3vA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_8145_Chocolate-Mousse-for-Beginners-4x3-cropped-757ae43035ff48cc8bc9ccffbd6cf3b7.jpg)
+

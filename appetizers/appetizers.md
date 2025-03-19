@@ -44,6 +44,7 @@ A simple and fresh Italian appetizer that's bursting with flavor.
 - Use **fresh, ripe tomatoes** for the best flavor.  
 
 **Bon Appétit!** 🍅🥖  
+![Bruschetta](../images/appetizers/Bruschetta.jpg)
 
 # Caprese Bruschetta
 
@@ -151,4 +152,6 @@ A classic and delicious appetizer with a creamy, flavorful filling.
 - Pipe the yolk mixture with a piping bag for a more elegant presentation.  
 
 **Enjoy your deviled eggs!** 😋  
+
+![Deviled Eggs](../images/appetizers/Deviled_Eggs.jpg)
 
