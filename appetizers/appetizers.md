@@ -45,6 +45,56 @@ A simple and fresh Italian appetizer that's bursting with flavor.
 
 **Bon Appétit!** 🍅🥖  
 
+# Caprese Bruschetta
+
+A delicious twist on the classic bruschetta, featuring fresh mozzarella and a drizzle of balsamic glaze for a creamy, tangy flavor.
+
+## Ingredients
+
+- 1 loaf of Italian baguette or ciabatta bread  
+- 4 ripe tomatoes  
+- 1/4 cup fresh basil leaves  
+- 2 cloves garlic (minced)  
+- 2 tablespoons olive oil  
+- 1 tablespoon balsamic vinegar (optional)  
+- Salt and pepper to taste  
+- 4 oz fresh mozzarella (bocconcini or mozzarella pearls)  
+- Balsamic glaze for drizzling  
+
+## Cooking Time
+
+- **Prep Time:** 10 minutes  
+- **Cook Time:** 5 minutes  
+- **Total Time:** ~15 minutes  
+- **Servings:** 4  
+
+## Instructions
+
+1. **Prep the Bread:**  
+   - Slice the bread into 1/2-inch thick pieces.  
+   - Toast the bread slices in a broiler or on a grill until golden and crispy. Set aside.
+
+2. **Prepare the Topping:**  
+   - Dice the tomatoes and place them in a mixing bowl.  
+   - Chop the fresh basil and add it to the tomatoes.  
+   - Add the minced garlic, olive oil, and balsamic vinegar (if using).  
+   - Season with salt and pepper to taste.  
+   - Tear the fresh mozzarella into bite-sized pieces and add them to the mixture.
+
+3. **Assemble the Bruschetta:**  
+   - Spoon the tomato, basil, and mozzarella mixture onto each toasted bread slice.  
+
+4. **Serve:**  
+   - Drizzle with balsamic glaze just before serving.  
+   - Serve immediately as an appetizer or snack. Enjoy!
+
+## Tips
+
+- For extra flavor, **rub the toasted bread with a garlic clove** before topping with the tomato mixture.  
+- You can add a bit of **Parmesan cheese** for a richer taste.  
+- Use **fresh, ripe tomatoes** for the best flavor.  
+
+**Bon Appétit!** 🍅🥖
 
 # Deviled Eggs  
 
