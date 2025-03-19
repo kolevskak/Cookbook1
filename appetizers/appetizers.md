@@ -1,30 +1,48 @@
-# Bruschetta Recipe
-## Ingredients:
-- 1 loaf of Italian baguette or ciabatta bread
-- 4 ripe tomatoes
-- 1/4 cup fresh basil leaves
-- 2 cloves garlic (minced)
-- 2 tbsp olive oil
-- 1 tbsp balsamic vinegar (optional)
-- Salt and pepper to taste
-## Instructions:
-1. **Prep the Bread**:
-   - Slice the bread into 1/2-inch thick pieces.
-   - Toast the bread slices in a broiler or on a grill until golden and crispy. Set aside.
-2. **Prepare the Topping**:
-   - Dice the tomatoes and place them in a mixing bowl.
-   - Chop the fresh basil and add it to the tomatoes.
-   - Add the minced garlic, olive oil, and balsamic vinegar (if using).
-   - Season with salt and pepper to taste.
-3. **Assemble the Bruschetta**:
-   - Spoon the tomato mixture onto each toasted bread slice.
-4. **Serve**:
-   - Serve immediately as an appetizer or snack. Enjoy!
-## Tips:
-- You can add a little bit of mozzarella or Parmesan cheese on top if you like.
-- For extra flavor, rub the toasted bread with a garlic clove before topping with the tomato mixture.
+# Bruschetta Recipe  
 
-Bon Appétit!
+A simple and fresh Italian appetizer that's bursting with flavor.  
+
+## Ingredients  
+
+- 1 loaf of Italian baguette or ciabatta bread  
+- 4 ripe tomatoes  
+- 1/4 cup fresh basil leaves  
+- 2 cloves garlic (minced)  
+- 2 tablespoons olive oil  
+- 1 tablespoon balsamic vinegar (optional)  
+- Salt and pepper to taste  
+
+## Cooking Time  
+
+- **Prep Time:** 10 minutes  
+- **Cook Time:** 5 minutes  
+- **Total Time:** ~15 minutes  
+
+## Instructions  
+
+1. **Prep the Bread:**  
+   - Slice the bread into 1/2-inch thick pieces.  
+   - Toast the bread slices in a broiler or on a grill until golden and crispy. Set aside.  
+
+2. **Prepare the Topping:**  
+   - Dice the tomatoes and place them in a mixing bowl.  
+   - Chop the fresh basil and add it to the tomatoes.  
+   - Add the minced garlic, olive oil, and balsamic vinegar (if using).  
+   - Season with salt and pepper to taste.  
+
+3. **Assemble the Bruschetta:**  
+   - Spoon the tomato mixture onto each toasted bread slice.  
+
+4. **Serve:**  
+   - Serve immediately as an appetizer or snack. Enjoy!  
+
+## Tips  
+
+- For extra flavor, **rub the toasted bread with a garlic clove** before topping with the tomato mixture.  
+- You can add a bit of **mozzarella or Parmesan cheese** for a richer taste.  
+- Use **fresh, ripe tomatoes** for the best flavor.  
+
+**Bon Appétit!** 🍅🥖  
 
 
 # Deviled Eggs  
@@ -41,6 +59,13 @@ A classic and delicious appetizer with a creamy, flavorful filling.
 - 1/8 teaspoon black pepper  
 - Paprika, for garnish  
 - Chopped chives or parsley (optional, for garnish)  
+
+## Cooking Time  
+
+- **Prep Time:** 10 minutes  
+- **Cook Time:** 12 minutes  
+- **Cooling Time:** 5 minutes  
+- **Total Time:** ~30 minutes  
 
 ## Instructions  
 
@@ -71,5 +96,7 @@ A classic and delicious appetizer with a creamy, flavorful filling.
 - Use **fresh eggs** for the best taste, but slightly older eggs are easier to peel.  
 - Don't over-soak the yolk mixture—it should be creamy, not runny.  
 - For extra flavor, add a dash of hot sauce or a pinch of smoked paprika to the filling.  
-- Pipe the yolk mixture with a piping bag for a 
+- Pipe the yolk mixture with a piping bag for a more elegant presentation.  
+
+**Enjoy your deviled eggs!** 😋  
 
