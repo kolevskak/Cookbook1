@@ -91,7 +91,7 @@ A simple and flavorful way to enjoy perfectly grilled salmon.
 - Avoid overcooking—salmon is done when it flakes easily with a fork.
 - For extra flavor, marinate the salmon for **15-30 minutes** before grilling.
 - Serve with **grilled vegetables, rice, or a fresh salad** for a complete meal.
-
+![Grilled Salamon] (Cookbook1/images/main_courses/grilledsalamon.webp)
 ## Note  
 
 If you’d like to try other types of fish for grilling, **tuna, swordfish, halibut, and mahi-mahi** are excellent options. These firm and meaty fish hold up well to high heat and develop a delicious char when grilled.  
