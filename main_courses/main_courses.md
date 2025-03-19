@@ -44,3 +44,43 @@ A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper for a 
 - Use **guanciale** instead of pancetta for a more authentic taste.  
 - Avoid using cream—traditional carbonara relies on eggs
 
+
+Grilled Salmon
+
+Ingredients:
+
+2 salmon fillets
+
+1 tablespoon olive oil
+
+1 tablespoon lemon juice
+
+1 teaspoon garlic powder
+
+1/2 teaspoon salt
+
+1/2 teaspoon black pepper
+
+1/2 teaspoon paprika
+
+1 teaspoon fresh chopped dill (optional)
+
+Instructions:
+
+Preheat the grill to medium-high heat.
+
+Brush the salmon fillets with olive oil and lemon juice.
+
+In a small bowl, mix garlic powder, salt, black pepper, and paprika.
+
+Rub the spice mixture evenly over the salmon fillets.
+
+Place the salmon on the grill, skin-side down, and cook for 4-5 minutes.
+
+Flip carefully and grill for another 3-4 minutes, or until the salmon flakes easily with a fork.
+
+Remove from the grill and garnish with fresh dill if desired.
+
+Serve hot with your favorite sides.
+
+Enjoy your grilled salmon!
