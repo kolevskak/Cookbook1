@@ -45,42 +45,46 @@ A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper for a 
 - Avoid using cream—traditional carbonara relies on eggs
 
 
-Grilled Salmon
+# Grilled Salmon  
 
-Ingredients:
+A simple and flavorful way to enjoy perfectly grilled salmon.  
 
-2 salmon fillets
+## Ingredients  
 
-1 tablespoon olive oil
+- 2 salmon fillets  
+- 1 tablespoon olive oil  
+- 1 tablespoon lemon juice  
+- 1 teaspoon garlic powder  
+- 1/2 teaspoon salt  
+- 1/2 teaspoon black pepper  
+- 1/2 teaspoon paprika  
+- 1 teaspoon fresh chopped dill (optional)  
 
-1 tablespoon lemon juice
+## Instructions  
 
-1 teaspoon garlic powder
+1. **Preheat the Grill:**  
+   - Preheat the grill to medium-high heat.  
 
-1/2 teaspoon salt
+2. **Prepare the Salmon:**  
+   - Brush the salmon fillets with olive oil and lemon juice.  
+   - In a small bowl, mix garlic powder, salt, black pepper, and paprika.  
+   - Rub the spice mixture evenly over the salmon fillets.  
 
-1/2 teaspoon black pepper
+3. **Grill the Salmon:**  
+   - Place the salmon on the grill, skin-side down, and cook for 4-5 minutes.  
+   - Flip carefully and grill for another 3-4 minutes, or until the salmon flakes easily with a fork.  
 
-1/2 teaspoon paprika
+4. **Serve:**  
+   - Remove from the grill and garnish with fresh dill if desired.  
+   - Serve hot with your favorite sides.  
 
-1 teaspoon fresh chopped dill (optional)
+## Tips  
 
-Instructions:
+- Use **fresh salmon** for the best flavor and texture.  
+- **Oil the grill grates** before cooking to prevent sticking.  
+- Avoid overcooking—salmon is done when it flakes easily with a fork.  
+- For extra flavor, marinate the salmon for 15-30 minutes before grilling.  
+- Serve with **grilled vegetables, rice, or a fresh salad** for a complete meal.  
 
-Preheat the grill to medium-high heat.
+**Enjoy your grilled salmon!** 🍽️🐟  
 
-Brush the salmon fillets with olive oil and lemon juice.
-
-In a small bowl, mix garlic powder, salt, black pepper, and paprika.
-
-Rub the spice mixture evenly over the salmon fillets.
-
-Place the salmon on the grill, skin-side down, and cook for 4-5 minutes.
-
-Flip carefully and grill for another 3-4 minutes, or until the salmon flakes easily with a fork.
-
-Remove from the grill and garnish with fresh dill if desired.
-
-Serve hot with your favorite sides.
-
-Enjoy your grilled salmon!
