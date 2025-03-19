@@ -89,4 +89,8 @@ A simple and flavorful way to enjoy perfectly grilled salmon.
 - For extra flavor, marinate the salmon for **15-30 minutes** before grilling.
 - Serve with **grilled vegetables, rice, or a fresh salad** for a complete meal.
 
-**Enjoy your meal!** 
+## Note  
+
+If you’d like to try other types of fish for grilling, **tuna, swordfish, halibut, and mahi-mahi** are excellent options. These firm and meaty fish hold up well to high heat and develop a delicious char when grilled.  
+
+**Enjoy your meal!** 🍽️🔥  
