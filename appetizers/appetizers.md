@@ -17,6 +17,7 @@ A simple and fresh Italian appetizer that's bursting with flavor.
 - **Prep Time:** 10 minutes  
 - **Cook Time:** 5 minutes  
 - **Total Time:** ~15 minutes  
+- **Servings:** 4  
 
 ## Instructions  
 
@@ -66,6 +67,7 @@ A classic and delicious appetizer with a creamy, flavorful filling.
 - **Cook Time:** 12 minutes  
 - **Cooling Time:** 5 minutes  
 - **Total Time:** ~30 minutes  
+- **Servings:** 5  
 
 ## Instructions  
 
