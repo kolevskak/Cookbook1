@@ -1,0 +1,33 @@
+body {
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9));
+  }
+
+h1 {
+  font-size: 36px;
+  padding: 20px;
+  text-align: center;
+}
+
+img {
+  width: 500px;
+  height: auto;
+}
+
+button {
+  font-size: 16px;
+  padding: 5px;
+  width: 150px;
+  border-radius: 7px;
+  background-color: black;
+  color: white;
+}
+
+button:hover {
+  background-color: rgb(63, 63, 63);
+  cursor: pointer;
+}
